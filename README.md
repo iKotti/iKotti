@@ -1,4 +1,4 @@
-### <p align="center"> Merhaba, Ben İlker </p>
+### <h2 align="center"> Merhaba, Ben İlker </h2>
 
 <p align="center"> 
   Şu anda geliştirmekte Olduğum Proje: 
