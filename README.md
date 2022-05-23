@@ -1,6 +1,6 @@
 ### <h2 align="center"> Merhaba, Ben İlker </h2>
 
-<p align="center"> 
+<!<p align="center"> 
   Şu anda geliştirmekte Olduğum Proje: 
   <a href="https://github.com/iKotti/human-resource-management-system"> Human Resource Management System </a>
 </p>
@@ -14,7 +14,7 @@
 
 <h2></h2>
 
-<!--
+--
 <div align="center">
   <h3>Üzerinde Çalıştığım Diller</h3>
   <i class="devicon-javascript-plain colored"></i>
